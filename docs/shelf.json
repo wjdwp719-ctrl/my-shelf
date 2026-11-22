@@ -1,0 +1,99 @@
+{
+ "shelf": {
+  "title": "나의 책장",
+  "owner": ""
+ },
+ "updated": "2026-11-13",
+ "books": [
+  {
+   "id": 1,
+   "title": "물고기는 존재하지 않는다",
+   "author": "룰루 밀러",
+   "publisher": "곰출판",
+   "cover": "https://image.yes24.com/goods/105526047/L",
+   "link": "https://www.yes24.com/product/goods/105526047",
+   "media": "종이책",
+   "year": 2026,
+   "month": 10,
+   "category": "과학",
+   "fav": true,
+   "review": "샘플 한줄평이에요. 어드민에서 고치거나 샘플 지우기로 한 번에 지울 수 있어요.",
+   "quote": ""
+  },
+  {
+   "id": 2,
+   "title": "코스모스",
+   "author": "칼 세이건",
+   "publisher": "사이언스북스",
+   "cover": "https://image.yes24.com/goods/2312211/L",
+   "link": "https://www.yes24.com/product/goods/2312211",
+   "media": "종이책",
+   "year": 2026,
+   "month": 9,
+   "category": "과학",
+   "fav": false,
+   "review": "",
+   "quote": ""
+  },
+  {
+   "id": 3,
+   "title": "우리가 빛의 속도로 갈 수 없다면",
+   "author": "김초엽",
+   "publisher": "허블",
+   "cover": "https://image.yes24.com/goods/74261416/L",
+   "link": "https://www.yes24.com/product/goods/74261416",
+   "media": "종이책",
+   "year": 2026,
+   "month": 6,
+   "category": "문학",
+   "fav": true,
+   "review": "",
+   "quote": ""
+  },
+  {
+   "id": 4,
+   "title": "월든",
+   "author": "헨리 데이빗 소로우",
+   "publisher": "은행나무",
+   "cover": "https://image.yes24.com/goods/5531156/L",
+   "link": "https://www.yes24.com/product/goods/5531156",
+   "media": "종이책",
+   "year": 2025,
+   "month": 11,
+   "category": "에세이",
+   "fav": false,
+   "review": "샘플 한줄평이에요. 책을 누르면 이렇게 상세가 열려요.",
+   "quote": ""
+  },
+  {
+   "id": 5,
+   "title": "이방인",
+   "author": "알베르 카뮈",
+   "publisher": "열린책들",
+   "cover": "https://image.yes24.com/goods/146274919/L",
+   "link": "https://www.yes24.com/product/goods/146274919",
+   "media": "종이책",
+   "year": 2025,
+   "month": 8,
+   "category": "문학",
+   "fav": false,
+   "review": "",
+   "quote": ""
+  },
+  {
+   "id": 6,
+   "title": "빛과 실",
+   "author": "한강",
+   "publisher": "문학과지성사",
+   "cover": "https://image.yes24.com/goods/145569016/L",
+   "link": "https://www.yes24.com/product/goods/145569016",
+   "media": "종이책",
+   "year": 2025,
+   "month": 3,
+   "category": "에세이",
+   "fav": false,
+   "review": "",
+   "quote": ""
+  }
+ ]
+}
